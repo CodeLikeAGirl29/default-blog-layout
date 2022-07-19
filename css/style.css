@@ -64,7 +64,7 @@ h6 {
 	letter-spacing: 0;
 	font-weight: normal;
 	position: relative;
-	padding: 0 0 10px 0;
+	padding: 0 0 10px;
 	font-weight: normal;
 	line-height: normal;
 	color: #111111;
@@ -192,7 +192,7 @@ img {
 }
 
 blockquote {
-	margin: 20px 0 20px;
+	margin: 20px 0;
 	padding: 30px;
 }
 
@@ -312,7 +312,7 @@ button {
 .header {
 	width: 100%;
 	background: transparent;
-	padding: 30px 30px;
+	padding: 30px;
 }
 
 .logo a {
@@ -324,7 +324,7 @@ button {
 }
 
 .banner_main {
-	padding: 90px 0 190px 0;
+	padding: 90px 0 190px;
 }
 
 .text-bg {
@@ -448,7 +448,7 @@ ul.like li img {
 .position_box {
 	position: absolute;
 	bottom: 0;
-	padding: 0px 20px 20px 20px;
+	padding: 0px 20px 20px;
 }
 .withi_color {
 	color: #f0ebf4;
@@ -479,7 +479,7 @@ ul.withi_color {
 	padding-right: 14px;
 }
 .three_box {
-	padding: 20px 20px;
+	padding: 20px;
 	box-shadow: #ddd 0px 0px 10px 0px;
 }
 .three_box p {
@@ -569,7 +569,7 @@ ul.padding_left2 li img {
 	color: #fff;
 	font-size: 17px;
 	line-height: 28px;
-	padding: 25px 0 0px 0;
+	padding: 25px 0 0px;
 }
 
 /** end Testimonial section **/
@@ -591,7 +591,7 @@ ul.padding_left2 li img {
 }
 
 .main_form {
-	padding: 50px 50px;
+	padding: 50px;
 	border: #046c58 solid 1px;
 	margin: 0px 80px;
 }
@@ -712,7 +712,7 @@ ul.padding_left2 li img {
 	color: #fff;
 	font-size: 30px;
 	line-height: 30px;
-	padding: 30px 0px 30px 0px;
+	padding: 30px 0px;
 	display: inline-block;
 	font-weight: bold;
 }
