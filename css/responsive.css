@@ -56,7 +56,7 @@ line-height: 25px;}
 
 }
 .banner_main {
-    padding: 30px 0 90px 0;
+    padding: 30px 0 90px;
 }
 .he_img {
     height: 496px;
@@ -109,7 +109,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 19px;}
        background: url(../images/banner.png);
     }
     .header {
-        padding: 30px 0px 0px 0px;
+        padding: 30px 0px 0px;
     }
     .logo {
         text-align: center !important;
@@ -121,7 +121,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 19px;}
         line-height: 51px;
     }
     .banner_main {
-    padding: 30px 0 90px 0;
+    padding: 30px 0 90px;
 }
 .text-img {
 
@@ -141,7 +141,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 19px;}
 
 .padding_top3 {padding-top: 20px;}
 .pa_wi {padding-top: 20px; font-size: 19px; padding-bottom: 15px;}
-.our_text_box {padding: 1px 5px 52px 5px;}
+.our_text_box {padding: 1px 5px 52px;}
      .padding_flot {
 
 font-size: 19px;
